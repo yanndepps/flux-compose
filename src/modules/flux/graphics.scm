@@ -10,4 +10,4 @@
 
 (define (render-graphic graphic)
   ;; Transmit instructions to renderer thread
-  )
+  (display "I would be rendering here ... \n"))

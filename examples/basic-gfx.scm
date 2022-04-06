@@ -1,6 +1,6 @@
 ;; Display context -> REPL or shell script
-
 ;; Goal -> draw a red square on a white background
+
 (use-modules (flux graphics))
 
 (show-preview-window 1280 720)
